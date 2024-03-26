@@ -1,0 +1,79 @@
+C:\Users\admin\Downloads\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.exe
+C:\Users\admin\Downloads\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.deps.json
+C:\Users\admin\Downloads\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.runtimeconfig.json
+C:\Users\admin\Downloads\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.dll
+C:\Users\admin\Downloads\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.pdb
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\EditPage.g.cs
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\EmptyPage.g.cs
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\MainPage.g.cs
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\QuizEditPage.g.cs
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\QuizPage.g.cs
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\QuizWindow.g.cs
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz_MarkupCompile.cache
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz_MarkupCompile.lref
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\EditPage.baml
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\EmptyPage.baml
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\MainPage.baml
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\QuizEditPage.baml
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\QuizPage.baml
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\QuizWindow.baml
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.g.resources
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.AssemblyInfo.cs
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.dll
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\refint\Quiz.dll
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.pdb
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.genruntimeconfig.cache
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\ref\Quiz.dll
+C:\Users\admin\Downloads\Quiz\Quiz\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\admin\Downloads\Quiz\Quiz\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Downloads\Quiz\Quiz\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\App.baml
+C:\Users\admin\Downloads\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.csproj.CopyComplete
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.exe
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.deps.json
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.runtimeconfig.json
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.dll
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.pdb
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\EditPage.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\EmptyPage.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\MainPage.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\QuizEditPage.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\QuizPage.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\QuizWindow.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz_MarkupCompile.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz_MarkupCompile.lref
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\App.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\EditPage.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\EmptyPage.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\MainPage.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\QuizEditPage.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\QuizPage.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\QuizWindow.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.g.resources
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.AssemblyInfo.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.csproj.CopyComplete
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.dll
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\refint\Quiz.dll
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.pdb
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.genruntimeconfig.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\ref\Quiz.dll
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\QuizResultsPage.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Виктория 2 курс, C#\Quiz\Quiz\obj\Debug\net8.0-windows\QuizResultsPage.baml
