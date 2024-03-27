@@ -44,7 +44,6 @@ namespace Quiz
                 Window? window = parent as Window;
                 if (window != null)
                 {
-                    // Вы можете использовать window здесь
                     if (mainFrame.CanGoBack)
                     {
                         mainFrame.GoBack();
